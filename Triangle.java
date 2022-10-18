@@ -3,7 +3,8 @@
 * Course: ITEC 2150
 * Written: 10/18/2022
 *
-* This class – This is the Triangle class. Contains a method that checks if a triangle is a true triangle.
+* This class – This is the Triangle class with constructors and parameters for triangle sides. 
+* Contains a method that checks if a triangle is a true triangle and throws an exception if it is not.
 */
 public class Triangle 
 {
